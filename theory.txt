@@ -1,5 +1,5 @@
 a.	Que permet de faire la commande git pull ? 
-  > La commande git pull permet de mettre à jour (prendre les changement) le dépôt local sur la branche cible en faisant réference au dépôt distant.
+  > La commande git pull permet de mettre à jour le dépôt local (prendre les changements) sur la branche cible en faisant réference au dépôt distant.
 
 b.	Que permet de faire la commande git clone ? 
   > La commande git clone permet de faire une copie en local du dépôt distant et donne une possibilité de se relier.

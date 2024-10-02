@@ -1,0 +1,19 @@
+echo "# mgt1-hei" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Toukoms/mgt1-hei.git
+git push -u origin main
+
+git add .
+git commit -m "Add profile.txt file containing my firstname and my lastname"
+git push
+
+git add .
+git commit -m "Change profile.txt"
+git push
+
+git add theory.txt
+git commit -m "Add theory.txt file"
+git push
